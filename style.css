@@ -1,12 +1,12 @@
-p {
+.texto {
     margin: 40px;
     padding: 20px;
 }
 
-.primeiro-cinza {
+.primeiro-padrao {
     background-color: #F5F5F5;
 }
 
-.segundo-rosa {
+.segundo-destacado {
     background-color: #F0CCE2;
 }
